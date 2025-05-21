@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🗺️ App de Tacna para zonas peligrosas
 
 Una aplicación móvil para ayudar a los usuarios a identificar zonas o rutas peligrosas en la ciudad de Tacna mediante varios factores. 
@@ -46,3 +47,7 @@ Estamos utilizando Firebase para manejar la autenticación de usuarios. Aquí se
 
 Colección: `usuarios`
 
+=======
+# SM2_EXAMEN_PRACTICO
+Examen practico Ivan Málaga
+>>>>>>> 9ef9438cf1dae7e9e3c8355a8b13bd0a8c6c3f21
